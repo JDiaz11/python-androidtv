@@ -1,0 +1,14 @@
+
+{
+    "domain": "androidtv",
+    "name": "androidtv",
+    "documentation": "https://androidtv.readthedocs.io/",
+    "requirements": [
+      "adb-shell>=0.1.0",
+      "pure-python-adb>=0.2.2.dev0",
+      "sphinx==2.1.2"
+    ],
+    "dependencies": ["configurator, androidtv, basetv, constants, firetv"],
+    "codeowners": []
+  }
+  
